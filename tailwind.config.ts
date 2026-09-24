@@ -5,15 +5,16 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        bg: "#f7f1e6",
+        bg: "#f7f2e8",
+        bg2: "#eee2cc",
         card: "#ffffff",
-        ink: "#2c241c",
-        inkSoft: "#6b6152",
-        terracotta: "#bd6f52",
-        terracottaDark: "#a85c40",
-        gold: "#a9824c",
-        line: "#e6dac0",
-        darkBtn: "#2c241c",
+        ink: "#24252b",
+        inkSoft: "#605f68",
+        terracotta: "#92764f",
+        terracottaDark: "#6e5638",
+        gold: "#a9835a",
+        line: "#e3d5ba",
+        darkBtn: "#2c2e35",
       },
       fontFamily: {
         serif: ["Fraunces", "serif"],
