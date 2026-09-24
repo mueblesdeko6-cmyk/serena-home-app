@@ -1,0 +1,1336 @@
+[
+  {
+    "id": "sab200-bv",
+    "name": "Sábanas 200 Hilos",
+    "cat": "Sábanas",
+    "desc": "Sábanas 100% algodón, frescas y ligeras, perfectas para climas cálidos.",
+    "colors": [
+      "Blanco",
+      "Verde",
+      "Rosa",
+      "Beige"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        137733
+      ],
+      [
+        "Queen",
+        140427
+      ],
+      [
+        "King",
+        144917
+      ]
+    ],
+    "image_slug": "sab200-bv.jpg"
+  },
+  {
+    "id": "sab300",
+    "name": "Sábanas 300 Hilos",
+    "cat": "Sábanas",
+    "desc": "Sábanas 100% algodón de mayor densidad de hilos, suavidad progresiva con cada lavado.",
+    "colors": [
+      "Blanca",
+      "Beige"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        156014
+      ],
+      [
+        "Queen",
+        166170
+      ],
+      [
+        "King",
+        185850
+      ]
+    ],
+    "image_slug": "sab300.jpg"
+  },
+  {
+    "id": "sabmicro-vl",
+    "name": "Sábanas Microfibra",
+    "cat": "Sábanas",
+    "desc": "Sábanas de microfibra resistentes y de fácil mantenimiento, colores vibrantes.",
+    "colors": [
+      "Verde",
+      "Lila",
+      "Beige",
+      "Blanco"
+    ],
+    "sizes": [
+      [
+        "Sencillo",
+        48012
+      ],
+      [
+        "Semidoble",
+        54185
+      ],
+      [
+        "Doble",
+        57535
+      ],
+      [
+        "Queen",
+        60620
+      ]
+    ],
+    "image_slug": "sabmicro-vl.jpg"
+  },
+  {
+    "id": "sabbambu",
+    "name": "Sábanas Bambú 300 Hilos",
+    "cat": "Sábanas",
+    "desc": "Fibra de bambú ultra suave, hipoalergénica, transpirable y 100% sostenible.",
+    "colors": [
+      "Blanco"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        179926
+      ],
+      [
+        "Queen",
+        191988
+      ],
+      [
+        "King",
+        221084
+      ]
+    ],
+    "image_slug": "sabbambu.jpg"
+  },
+  {
+    "id": "toalla-popcorn",
+    "name": "Toalla 12s PopCorn ZT",
+    "cat": "Toallas",
+    "desc": "Toalla 100% algodón 70x140cm - 550gsm.",
+    "colors": [
+      "Blanco",
+      "Crema"
+    ],
+    "sizes": [
+      [
+        "70x140cm",
+        47725
+      ]
+    ],
+    "image_slug": "toalla-popcorn.jpg"
+  },
+  {
+    "id": "toalla-insertos",
+    "name": "Toalla 20/2 con Insertos",
+    "cat": "Toallas",
+    "desc": "Toalla 100% algodón 70x140cm - 600gsm.",
+    "colors": [],
+    "sizes": [
+      [
+        "70x140cm",
+        38358
+      ]
+    ],
+    "image_slug": "toalla-insertos.jpg"
+  },
+  {
+    "id": "toalla-12rs",
+    "name": "Toalla 12RS",
+    "cat": "Toallas",
+    "desc": "Toalla 100% algodón, disponible en dos tamaños - 500gsm.",
+    "colors": [
+      "Blanco",
+      "Beige"
+    ],
+    "sizes": [
+      [
+        "70x140cm",
+        30545
+      ],
+      [
+        "100x150cm",
+        46829
+      ]
+    ],
+    "image_slug": "toalla-12rs.jpg"
+  },
+  {
+    "id": "toalla-12szt",
+    "name": "Toalla 12s ZT",
+    "cat": "Toallas",
+    "desc": "Toalla 100% algodón 70x140cm - 500/600gsm.",
+    "colors": [
+      "Blanco",
+      "Crema"
+    ],
+    "sizes": [
+      [
+        "70x140cm",
+        45527
+      ]
+    ],
+    "image_slug": "toalla-12szt.jpg"
+  },
+  {
+    "id": "alm-brocada",
+    "name": "Almohada Brocada",
+    "cat": "Almohadas",
+    "desc": "Tela suave tipo seda, relleno de microfibra de alta calidad y excelente volumen.",
+    "colors": [],
+    "sizes": [
+      [
+        "50x70cm",
+        55860
+      ],
+      [
+        "50x90cm",
+        69540
+      ]
+    ],
+    "image_slug": "alm-brocada.jpg"
+  },
+  {
+    "id": "alm-lyocell",
+    "name": "Almohada Lyocell",
+    "cat": "Almohadas",
+    "desc": "Tela 100% lyocell de 233 hilos, suave y fresca, con ribete satinado verde.",
+    "colors": [],
+    "sizes": [
+      [
+        "50x70cm",
+        45104
+      ],
+      [
+        "50x90cm",
+        56256
+      ]
+    ],
+    "image_slug": "alm-lyocell.jpg"
+  },
+  {
+    "id": "alm-friocalor",
+    "name": "Almohada Frío/Calor",
+    "cat": "Almohadas",
+    "desc": "Diseño tipo sándwich ideal para verano e invierno, cara superior en nylon.",
+    "colors": [],
+    "sizes": [
+      [
+        "50x70cm",
+        78876
+      ]
+    ],
+    "image_slug": "alm-friocalor.jpg"
+  },
+  {
+    "id": "alm-hilosoro",
+    "name": "Almohada Hilos de Oro",
+    "cat": "Almohadas",
+    "desc": "Tela de 460 hilos con hilo dorado, 90% plumón blanco de pato, acabado premium.",
+    "colors": [],
+    "sizes": [
+      [
+        "50x70cm",
+        95656
+      ],
+      [
+        "50x90cm",
+        116414
+      ]
+    ],
+    "image_slug": "alm-hilosoro.jpg"
+  },
+  {
+    "id": "pique-hulya",
+    "name": "Pique Hulya",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, sobresábana bordada, cubrecama, 2 fundas de almohada y 2 fundas bordadas. (Doble, Queen)",
+    "colors": [
+      "Crema",
+      "Champaña"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        1372173
+      ],
+      [
+        "Queen",
+        1372173
+      ]
+    ],
+    "image_slug": "pique-hulya.jpg"
+  },
+  {
+    "id": "pique-pitircik",
+    "name": "Pique Set Pitircik",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, sobresábana bordada, cubrecama, 2 fundas de almohada y 2 fundas bordadas. (Doble, Queen)",
+    "colors": [
+      "Crema"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        1177174
+      ],
+      [
+        "Queen",
+        1177174
+      ]
+    ],
+    "image_slug": "pique-pitircik.jpg"
+  },
+  {
+    "id": "pique-elite",
+    "name": "Pique Elite",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, sobresábana bordada, cubrecama, 2 fundas de almohada y 2 fundas bordadas. (Doble, Queen)",
+    "colors": [
+      "Crema",
+      "Champaña"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        1372173
+      ],
+      [
+        "Queen",
+        1372173
+      ]
+    ],
+    "image_slug": "pique-elite.jpg"
+  },
+  {
+    "id": "set-yasemin",
+    "name": "Set Yasemin",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, duvet, cubrecama, 2 fundas de almohada y 2 fundas bordadas. (Doble, Queen)",
+    "colors": [
+      "Crema"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        1372173
+      ],
+      [
+        "Queen",
+        1372173
+      ]
+    ],
+    "image_slug": "set-yasemin.jpg"
+  },
+  {
+    "id": "set-cennetece",
+    "name": "Set Cennet Ece",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, duvet, cubrecama, 2 fundas de almohada y 2 fundas bordadas. (Doble, Queen)",
+    "colors": [
+      "Crema",
+      "Champaña"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        1177174
+      ],
+      [
+        "Queen",
+        1177174
+      ]
+    ],
+    "image_slug": "set-cennetece.jpg"
+  },
+  {
+    "id": "duvet-nehir",
+    "name": "Duvet Set Nehir",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, duvet, cubrecama, 2 fundas de almohada y 2 fundas bordadas. (Doble, Queen)",
+    "colors": [
+      "Crema"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        1372173
+      ],
+      [
+        "Queen",
+        1372173
+      ]
+    ],
+    "image_slug": "duvet-nehir.jpg"
+  },
+  {
+    "id": "karnaval",
+    "name": "Karnaval",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, sobresábana, duvet, 2 fundas de almohada y 2 fundas bordadas. (Doble, Queen)",
+    "colors": [
+      "Beige",
+      "Crema"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        1112175
+      ],
+      [
+        "Queen",
+        1112175
+      ]
+    ],
+    "image_slug": "karnaval.jpg"
+  },
+  {
+    "id": "duru",
+    "name": "Durú",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, duvet, cubrecama, 2 fundas de almohada y 2 fundas bordadas. (Doble, Queen)",
+    "colors": [
+      "Crema",
+      "Champaña"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        1372173
+      ],
+      [
+        "Queen",
+        1372173
+      ]
+    ],
+    "image_slug": "duru.jpg"
+  },
+  {
+    "id": "mimoza",
+    "name": "Mimoza",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, sobresábana, duvet, 2 fundas de almohada y 2 fundas bordadas. (Doble, Queen)",
+    "colors": [
+      "Champaña"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        1047175
+      ],
+      [
+        "Queen",
+        1047175
+      ]
+    ],
+    "image_slug": "mimoza.jpg"
+  },
+  {
+    "id": "duvet-yesim",
+    "name": "Duvet Yesim",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, sobresábana, duvet, 2 fundas de almohada y 2 fundas bordadas. (Doble, Queen)",
+    "colors": [
+      "Crema",
+      "Champaña"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        1047175
+      ],
+      [
+        "Queen",
+        1047175
+      ]
+    ],
+    "image_slug": "duvet-yesim.jpg"
+  },
+  {
+    "id": "duvet-mykanos",
+    "name": "Duvet Set Mykanos",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, sobresábana, duvet, 2 fundas de almohada y 2 fundas bordadas. (Doble, Queen)",
+    "colors": [
+      "Verde Menta",
+      "Crema",
+      "Champaña"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        1047175
+      ],
+      [
+        "Queen",
+        1047175
+      ]
+    ],
+    "image_slug": "duvet-mykanos.jpg"
+  },
+  {
+    "id": "hurrem",
+    "name": "Hurrem",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, duvet, cubrecama, 2 fundas de almohada y 2 fundas bordadas. (Doble, Queen)",
+    "colors": [
+      "Crema"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        1372173
+      ],
+      [
+        "Queen",
+        1372173
+      ]
+    ],
+    "image_slug": "hurrem.jpg"
+  },
+  {
+    "id": "duvet-karina",
+    "name": "Duvet Set Karina",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, sobresábana, duvet, 2 fundas de almohada y 2 fundas bordadas. (Doble, Queen)",
+    "colors": [
+      "Crema",
+      "Verde Menta"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        1047175
+      ],
+      [
+        "Queen",
+        1047175
+      ]
+    ],
+    "image_slug": "duvet-karina.jpg"
+  },
+  {
+    "id": "pique-tasli",
+    "name": "Pique Set Tasli",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, sobresábana bordada, cubrecama, 2 fundas de almohada y 2 fundas bordadas. (King)",
+    "colors": [
+      "Crema",
+      "Champaña"
+    ],
+    "sizes": [
+      [
+        "Queen",
+        1486180
+      ],
+      [
+        "King",
+        1486180
+      ]
+    ],
+    "image_slug": "pique-tasli.jpg"
+  },
+  {
+    "id": "pique-diba",
+    "name": "Pique Set Diba",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, sobresábana bordada, cubrecama, 2 fundas de almohada y 2 fundas bordadas. (King)",
+    "colors": [
+      "Crema",
+      "Champaña"
+    ],
+    "sizes": [
+      [
+        "King",
+        1486180
+      ]
+    ],
+    "image_slug": "pique-diba.jpg"
+  },
+  {
+    "id": "sima",
+    "name": "Sima",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, sobresábana bordada, cubrecama, 2 fundas de almohada y 2 fundas bordadas. (King)",
+    "colors": [
+      "Crema",
+      "Champaña"
+    ],
+    "sizes": [
+      [
+        "King",
+        1486180
+      ]
+    ],
+    "image_slug": "sima.jpg"
+  },
+  {
+    "id": "duru-casablanca",
+    "name": "Durú Casablanca",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, sobresábana bordada, cubrecama, 2 fundas de almohada y 2 fundas bordadas. (King)",
+    "colors": [
+      "Crema",
+      "Champaña"
+    ],
+    "sizes": [
+      [
+        "King",
+        1486180
+      ]
+    ],
+    "image_slug": "duru-casablanca.jpg"
+  },
+  {
+    "id": "pique-melisa",
+    "name": "Pique Set Melisa",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "Sábana, sobresábana bordada, cubrecama, 2 fundas de almohada y 2 fundas bordadas. (Queen, King)",
+    "colors": [
+      "Crema",
+      "Champaña"
+    ],
+    "sizes": [
+      [
+        "Queen",
+        1486180
+      ],
+      [
+        "King",
+        1486180
+      ]
+    ],
+    "image_slug": "pique-melisa.jpg"
+  },
+  {
+    "id": "capri",
+    "name": "Capri",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "1 duvet, 2 fundas 50x75cm y 1 funda cojín 40x40cm. (Doble, Queen, King)",
+    "colors": [
+      "Crema",
+      "Champaña"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        519780
+      ],
+      [
+        "Queen",
+        554757
+      ],
+      [
+        "King",
+        636223
+      ]
+    ],
+    "image_slug": "capri.jpg"
+  },
+  {
+    "id": "lira",
+    "name": "Lira",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "1 duvet, 2 fundas 50x75cm y 1 funda cojín 40x40cm. (Doble, Queen, King)",
+    "colors": [
+      "Crema",
+      "Champaña"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        664053
+      ],
+      [
+        "Queen",
+        702313
+      ],
+      [
+        "King",
+        780397
+      ]
+    ],
+    "image_slug": "lira.jpg"
+  },
+  {
+    "id": "toscana",
+    "name": "Toscana",
+    "cat": "Sets Premium Importados de Turquía",
+    "desc": "1 duvet 225x250cm y 2 fundas 50x75cm. (Doble, Queen, King)",
+    "colors": [
+      "Crema",
+      "Champaña"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        592893
+      ],
+      [
+        "Queen",
+        625870
+      ],
+      [
+        "King",
+        707040
+      ]
+    ],
+    "image_slug": "toscana.jpg"
+  },
+  {
+    "id": "dalia",
+    "name": "Dalia",
+    "cat": "Edredones y Cobertores",
+    "desc": "Edredón set 8 piezas. Diseños frescos y colores en tendencia.",
+    "colors": [
+      "Verde"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        369200
+      ],
+      [
+        "Queen",
+        389000
+      ],
+      [
+        "King",
+        399000
+      ]
+    ],
+    "image_slug": "dalia.jpg"
+  },
+  {
+    "id": "clavel",
+    "name": "Clavel",
+    "cat": "Edredones y Cobertores",
+    "desc": "Edredón set 8 piezas. Diseños frescos y colores en tendencia.",
+    "colors": [],
+    "sizes": [
+      [
+        "Doble",
+        369200
+      ],
+      [
+        "Queen",
+        389000
+      ],
+      [
+        "King",
+        399000
+      ]
+    ],
+    "image_slug": "clavel.jpg"
+  },
+  {
+    "id": "lirio",
+    "name": "Lirio",
+    "cat": "Edredones y Cobertores",
+    "desc": "Edredón set 8 piezas. Diseños frescos y colores en tendencia.",
+    "colors": [],
+    "sizes": [
+      [
+        "Doble",
+        369200
+      ],
+      [
+        "Queen",
+        389000
+      ],
+      [
+        "King",
+        399000
+      ]
+    ],
+    "image_slug": "lirio.jpg"
+  },
+  {
+    "id": "tulipan",
+    "name": "Tulipán",
+    "cat": "Edredones y Cobertores",
+    "desc": "Edredón set 8 piezas. Diseños frescos y colores en tendencia.",
+    "colors": [],
+    "sizes": [
+      [
+        "Doble",
+        369200
+      ],
+      [
+        "Queen",
+        389000
+      ],
+      [
+        "King",
+        399000
+      ]
+    ],
+    "image_slug": "tulipan.jpg"
+  },
+  {
+    "id": "pique-nepal",
+    "name": "Pique Nepal",
+    "cat": "Edredones y Cobertores",
+    "desc": "Pique set 3 pcs. Comodidad sin límites.",
+    "colors": [
+      "Verde"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        234949
+      ],
+      [
+        "Queen",
+        247685
+      ],
+      [
+        "King",
+        268913
+      ]
+    ],
+    "image_slug": "pique-nepal.jpg"
+  },
+  {
+    "id": "grecia",
+    "name": "Grecia",
+    "cat": "Edredones y Cobertores",
+    "desc": "Edredón set 3 pcs. Diseños frescos y colores en tendencia.",
+    "colors": [
+      "Marfil"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        291201
+      ],
+      [
+        "Queen",
+        309245
+      ],
+      [
+        "King",
+        325165
+      ]
+    ],
+    "image_slug": "grecia.jpg"
+  },
+  {
+    "id": "pique-amazonia",
+    "name": "Pique Amazonia",
+    "cat": "Edredones y Cobertores",
+    "desc": "Materiales premium, confección de alta calidad, durabilidad garantizada.",
+    "colors": [
+      "Gris"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        234949
+      ],
+      [
+        "Queen",
+        247685
+      ],
+      [
+        "King",
+        268913
+      ]
+    ],
+    "image_slug": "pique-amazonia.jpg"
+  },
+  {
+    "id": "set-seul",
+    "name": "Set Seúl",
+    "cat": "Edredones y Cobertores",
+    "desc": "Covertor set 3 pcs con estilo, comodidad y calidad.",
+    "colors": [
+      "Marfil"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        264667
+      ],
+      [
+        "Queen",
+        280588
+      ],
+      [
+        "King",
+        308183
+      ]
+    ],
+    "image_slug": "set-seul.jpg"
+  },
+  {
+    "id": "hungria",
+    "name": "Hungria",
+    "cat": "Edredones y Cobertores",
+    "desc": "Cobertor set 3 pcs. Texturas suaves y confort garantizado.",
+    "colors": [
+      "Gris"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        301815
+      ],
+      [
+        "Queen",
+        319859
+      ],
+      [
+        "King",
+        353823
+      ]
+    ],
+    "image_slug": "hungria.jpg"
+  },
+  {
+    "id": "inglaterra",
+    "name": "Inglaterra",
+    "cat": "Edredones y Cobertores",
+    "desc": "Edredón set 4 pcs que combina funcionalidad y estilo.",
+    "colors": [
+      "Marfil"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        320920
+      ],
+      [
+        "Queen",
+        337902
+      ],
+      [
+        "King",
+        351700
+      ]
+    ],
+    "image_slug": "inglaterra.jpg"
+  },
+  {
+    "id": "pasadena",
+    "name": "Pasadena",
+    "cat": "Edredones y Cobertores",
+    "desc": "Edredón set 4 pcs que combina funcionalidad y estilo.",
+    "colors": [
+      "Marfil"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        296508
+      ],
+      [
+        "Queen",
+        314552
+      ],
+      [
+        "King",
+        330472
+      ]
+    ],
+    "image_slug": "pasadena.jpg"
+  },
+  {
+    "id": "roma",
+    "name": "Roma",
+    "cat": "Edredones y Cobertores",
+    "desc": "Edredón set 6 pcs. Colores vibrantes y texturas suaves.",
+    "colors": [
+      "Marfil"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        378234
+      ],
+      [
+        "Queen",
+        392032
+      ],
+      [
+        "King",
+        405830
+      ]
+    ],
+    "image_slug": "roma.jpg"
+  },
+  {
+    "id": "francia",
+    "name": "Francia",
+    "cat": "Edredones y Cobertores",
+    "desc": "Edredón set 6 pcs de alta gama para un descanso superior.",
+    "colors": [
+      "Marfil"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        423873
+      ],
+      [
+        "Queen",
+        444040
+      ],
+      [
+        "King",
+        466329
+      ]
+    ],
+    "image_slug": "francia.jpg"
+  },
+  {
+    "id": "milan",
+    "name": "Milan",
+    "cat": "Edredones y Cobertores",
+    "desc": "Edredón set 3 pcs de alta gama para un descanso superior.",
+    "colors": [
+      "Crudo"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        247685
+      ],
+      [
+        "Queen",
+        264667
+      ],
+      [
+        "King",
+        277404
+      ]
+    ],
+    "image_slug": "milan.jpg"
+  },
+  {
+    "id": "siena",
+    "name": "Siena",
+    "cat": "Edredón 100% Algodón",
+    "desc": "Edredón disponible en dos tonos.",
+    "colors": [
+      "Beige",
+      "Gris",
+      "Verde"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        292059
+      ],
+      [
+        "Queen",
+        326142
+      ],
+      [
+        "King",
+        368857
+      ]
+    ],
+    "image_slug": "siena.jpg"
+  },
+  {
+    "id": "verona",
+    "name": "Verona",
+    "cat": "Edredón 100% Algodón",
+    "desc": "Edredón en tono blanco clásico.",
+    "colors": [
+      "Blanco",
+      "Beige"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        289594
+      ],
+      [
+        "Queen",
+        324687
+      ],
+      [
+        "King",
+        368112
+      ]
+    ],
+    "image_slug": "verona.jpg"
+  },
+  {
+    "id": "jazmine",
+    "name": "Jazmine",
+    "cat": "Cobijas",
+    "desc": "Cobija en franela sólida 350 g/m², textura aterciopelada y elegante.",
+    "colors": [
+      "Gris",
+      "Beige",
+      "Blanco",
+      "Verde Menta"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        84567
+      ],
+      [
+        "Queen",
+        90476
+      ],
+      [
+        "King",
+        105044
+      ]
+    ],
+    "image_slug": "jazmine.jpg"
+  },
+  {
+    "id": "chenille",
+    "name": "Chenille",
+    "cat": "Cobijas",
+    "desc": "Chenille sólido 300 g/m² con reverso sherpa blanca 200 g/m², máxima calidez.",
+    "colors": [
+      "Marfil",
+      "Beige",
+      "Verde Menta"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        154654
+      ],
+      [
+        "Queen",
+        168884
+      ],
+      [
+        "King",
+        181770
+      ]
+    ],
+    "image_slug": "chenille.jpg"
+  },
+  {
+    "id": "burbujas",
+    "name": "Burbujas",
+    "cat": "Cobijas",
+    "desc": "Franela sólida con diseño de burbujas y reverso en franela lisa.",
+    "colors": [
+      "Blanco",
+      "Verde Menta",
+      "Marfil"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        125315
+      ],
+      [
+        "Queen",
+        135412
+      ],
+      [
+        "King",
+        146705
+      ]
+    ],
+    "image_slug": "burbujas.jpg"
+  },
+  {
+    "id": "prot-tensel",
+    "name": "Protector de Colchón Tensel",
+    "cat": "Protectores de Colchón",
+    "desc": "Tejido 100% Tencel con laminación TPU, 140 g/m².",
+    "colors": [],
+    "sizes": [
+      [
+        "Doble",
+        66501
+      ],
+      [
+        "Queen",
+        76320
+      ],
+      [
+        "King",
+        101068
+      ]
+    ],
+    "image_slug": "prot-tensel.jpg"
+  },
+  {
+    "id": "prot-algodon",
+    "name": "Protector de Colchón Algodón",
+    "cat": "Protectores de Colchón",
+    "desc": "Superior 100% algodón con relleno de 150 g/m², apto para lavado en máquina.",
+    "colors": [],
+    "sizes": [
+      [
+        "Doble",
+        114386
+      ],
+      [
+        "Queen",
+        131380
+      ],
+      [
+        "King",
+        155034
+      ]
+    ],
+    "image_slug": "prot-algodon.jpg"
+  },
+  {
+    "id": "prot-coral",
+    "name": "Protector de Colchón Coral",
+    "cat": "Protectores de Colchón",
+    "desc": "Tejido polar coral 100% poliéster con laminación TPU, 275 g/m².",
+    "colors": [],
+    "sizes": [
+      [
+        "Doble",
+        68688
+      ],
+      [
+        "Queen",
+        80867
+      ],
+      [
+        "King",
+        92782
+      ]
+    ],
+    "image_slug": "prot-coral.jpg"
+  },
+  {
+    "id": "plumon-jersey",
+    "name": "Plumón Jersey",
+    "cat": "Plumones",
+    "desc": "Cubierta jersey supersuave, relleno de microfibra 250 g/m².",
+    "colors": [],
+    "sizes": [
+      [
+        "Doble",
+        173344
+      ],
+      [
+        "Queen",
+        192151
+      ],
+      [
+        "King",
+        217141
+      ]
+    ],
+    "image_slug": "plumon-jersey.jpg"
+  },
+  {
+    "id": "plumon-deluxe",
+    "name": "Plumón Deluxe",
+    "cat": "Plumones",
+    "desc": "Cubierta 100% algodón, relleno de microfibra de poliéster 500 g/m².",
+    "colors": [],
+    "sizes": [
+      [
+        "Doble",
+        216766
+      ],
+      [
+        "Queen",
+        259924
+      ],
+      [
+        "King",
+        296113
+      ]
+    ],
+    "image_slug": "plumon-deluxe.jpg"
+  },
+  {
+    "id": "cobertor-7pz",
+    "name": "Cobertor 7 Piezas",
+    "cat": "Colección Dalia · Violeta · Fresia · Camelia",
+    "desc": "Cobertor jacquard de 7 piezas con textura marmoleada. Diseños frescos, colores en tendencia, comodidad sin límites.",
+    "colors": [
+      "Dalia",
+      "Violeta",
+      "Fresia",
+      "Camelia"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        393435
+      ],
+      [
+        "Queen",
+        405848
+      ],
+      [
+        "King",
+        423585
+      ]
+    ],
+    "image_slug": "cobertor-7pz.jpg"
+  },
+  {
+    "id": "sab400",
+    "name": "Sábanas 400 Hilos",
+    "cat": "Sábanas",
+    "desc": "Sábanas 100% algodón, frescas y ligeras, con suavidad progresiva y alta durabilidad lavado tras lavado.",
+    "colors": [
+      "Blanco"
+    ],
+    "sizes": [
+      [
+        "Sencillo",
+        159993
+      ],
+      [
+        "Semidoble",
+        174985
+      ],
+      [
+        "Doble",
+        185489
+      ],
+      [
+        "Queen",
+        195992
+      ],
+      [
+        "King",
+        221774
+      ]
+    ],
+    "image_slug": "sab400.jpg"
+  },
+  {
+    "id": "sab500",
+    "name": "Sábanas 500 Hilos",
+    "cat": "Sábanas",
+    "desc": "Sábanas 100% algodón de mayor densidad de hilos, frescas y suaves, con alta durabilidad lavado tras lavado.",
+    "colors": [
+      "Blanco"
+    ],
+    "sizes": [
+      [
+        "Doble",
+        214899
+      ],
+      [
+        "Queen",
+        227504
+      ],
+      [
+        "King",
+        258442
+      ]
+    ],
+    "image_slug": "sab500.jpg"
+  }
+]
