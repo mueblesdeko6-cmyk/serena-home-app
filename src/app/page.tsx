@@ -16,9 +16,6 @@ export default function HomePage() {
   const [activeCat, setActiveCat] = useState(categories[0]);
   const [originVendor, setOriginVendor] = useState<Vendor | null>(null);
 
-  // El asesor de origen se toma en silencio del link (?v=lina), sin bloquear
-  // la entrada al catálogo — se usa como asesor por defecto en el checkout,
-  // pero el cliente puede cambiarlo ahí si quiere.
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     const v = params.get("v");
@@ -44,27 +41,27 @@ export default function HomePage() {
 
   return (
     <CartProvider>
-      <div
-        className="hero relative min-h-[38vh] flex items-end bg-terracottaDark bg-cover bg-center"
-        style={{
-          backgroundImage:
-            "linear-gradient(180deg, rgba(44,36,28,.05) 0%, rgba(44,36,28,.45) 65%, rgba(44,36,28,.80) 100%), url('/images/cover.jpg')",
-        }}
-      >
-        <div className="relative z-10 px-[6vw] py-8 max-w-[760px]">
-          <div className="text-[#f0d9b8] text-xs tracking-wide mb-1.5 font-semibold">
-            CATÁLOGO MAYORISTA 2026
+      <div className="hero relative max-w-[520px] mx-auto overflow-hidden bg-bg2">
+        <img
+          src="/images/cover.jpg"
+          alt="Serena Home — Catálogo mayorista 2026"
+          className="w-full h-auto block"
+        />
+        {originVendor && (
+          <div className="absolute top-[18px] right-[18px] z-10 flex items-center gap-2 bg-[rgba(44,46,53,.62)] backdrop-blur-[2px] border border-white/30 pl-[7px] pr-[14px] py-[7px] rounded-full text-[12.5px] text-[#fffaf0]">
+            <div className="w-6 h-6 rounded-full bg-terracotta flex items-center justify-center font-serif text-xs text-white shrink-0">
+              {originVendor.name.charAt(0)}
+            </div>
+            <span>
+              Asesor: <strong>{originVendor.name}</strong>
+            </span>
           </div>
-          <p className="text-[#f3ead9] text-sm max-w-[480px] leading-relaxed">
-            Textiles de cama y hogar premium para hoteles, alquileres y tiendas. Arma tu pedido y
-            envíalo directo por WhatsApp.
-          </p>
-        </div>
+        )}
       </div>
 
       <nav className="sticky top-0 z-40 bg-bg border-b border-line px-[6vw] py-3.5 flex gap-2.5 overflow-x-auto">
         {categories.map((cat) => (
-          <a
+          
             key={cat}
             href={`#${slug(cat)}`}
             onClick={() => setActiveCat(cat)}
