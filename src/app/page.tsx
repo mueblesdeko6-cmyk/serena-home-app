@@ -16,6 +16,9 @@ export default function HomePage() {
   const [activeCat, setActiveCat] = useState(categories[0]);
   const [originVendor, setOriginVendor] = useState<Vendor | null>(null);
 
+  // El asesor de origen se toma en silencio del link (?v=lina), sin bloquear
+  // la entrada al catálogo — se usa como asesor por defecto en el checkout,
+  // pero el cliente puede cambiarlo ahí si quiere.
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     const v = params.get("v");
@@ -61,7 +64,7 @@ export default function HomePage() {
 
       <nav className="sticky top-0 z-40 bg-bg border-b border-line px-[6vw] py-3.5 flex gap-2.5 overflow-x-auto">
         {categories.map((cat) => (
-          
+          <a
             key={cat}
             href={`#${slug(cat)}`}
             onClick={() => setActiveCat(cat)}
